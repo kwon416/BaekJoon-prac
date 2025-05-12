@@ -1,3 +1,5 @@
+package bronze;
+
 import java.util.*;
 
 public class q10807 {

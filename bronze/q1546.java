@@ -1,3 +1,5 @@
+package bronze;
+
 import java.util.*;
 public class q1546 {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
-import java.io.*;
+package bronze;
+
 import java.util.*;
 
 public class q11382 {

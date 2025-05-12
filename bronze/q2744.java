@@ -1,4 +1,5 @@
-import java.util.*;
+package bronze;
+
 import java.io.*;
 public class q2744 {
     public static void main(String[] args) throws IOException {

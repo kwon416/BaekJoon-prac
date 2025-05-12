@@ -1,3 +1,5 @@
+package bronze;
+
 import java.io.*;
 
 public class q2754 {

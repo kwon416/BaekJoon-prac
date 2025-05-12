@@ -1,5 +1,4 @@
-import java.util.*;
-import java.io.*;
+package bronze;
 
 public class q2557 {
     public static void main(String[] args) {

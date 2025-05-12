@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <excludeFromCompile>
-      <file url="file://$PROJECT_DIR$/q10872.java" />
+      <file url="file://$PROJECT_DIR$/bronze/q10872.java" />
     </excludeFromCompile>
   </component>
 </project>

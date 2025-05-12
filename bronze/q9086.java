@@ -1,3 +1,5 @@
+package bronze;
+
 import java.io.*;
 public class q9086 {
     public static void main(String[] args) throws IOException {

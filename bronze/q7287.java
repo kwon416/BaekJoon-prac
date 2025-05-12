@@ -1,4 +1,4 @@
-import java.util.*;
+package bronze;
 
 public class q7287 {
   public static void main(String[] args) {

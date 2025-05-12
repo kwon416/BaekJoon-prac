@@ -1,4 +1,5 @@
-import java.io.*;
+package gold;
+
 import java.util.*;
 
 public class  q10986 {

@@ -1,3 +1,5 @@
+package silver;
+
 import java.util.*;
 
 public class q2018 {

@@ -1,3 +1,5 @@
+package platinum;
+
 import java.io.*;
 import java.util.*;
 public class q11003 {
