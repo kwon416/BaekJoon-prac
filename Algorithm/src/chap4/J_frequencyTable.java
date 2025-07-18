@@ -1,4 +1,4 @@
-package chap4;
+package Algorithm.src.chap4;
 
 import java.io.*;
 import java.lang.*;
