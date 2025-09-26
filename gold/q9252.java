@@ -15,7 +15,7 @@ public class q9252 {
         B = sc.nextLine().toCharArray();
 
         DP = new long[A.length+1][B.length+1];
-        Path = new ArrayList<Character>();
+        Path = new ArrayList<>();
         for (int i = 1; i <= A.length; i++) {
             for (int j = 1; j <= B.length; j++) {
                 if (A[i - 1] == B[j - 1]) {
